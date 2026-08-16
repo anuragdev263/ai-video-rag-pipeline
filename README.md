@@ -538,7 +538,7 @@ This keeps the public repository lightweight and prevents accidental exposure of
 
 # 👨‍💻 Author
 
-**Anurag Anand**
+**Anurag Mukherjee**
 
 Computer Science & Engineering
 
